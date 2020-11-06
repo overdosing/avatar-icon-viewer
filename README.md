@@ -6,7 +6,7 @@ a powercord plugin that allows you to view avatars and copy them via a contextme
 
 # install
 
-https://github.com/subitize/avatar-icon-viewer
+git https://github.com/subitize/avatar-icon-viewer
 
 
 
