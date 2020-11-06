@@ -1,0 +1,7 @@
+{
+    "name": "AvatarIconViewer",
+    "version": "1.0",
+    "description": "allows you to view avatars and copy them via a contextmenu.",
+    "author": "saint",
+    "license": "MIT"
+}
